@@ -1,5 +1,5 @@
 {
-  "name": "common-modules",
+  "name": "test1",
   "version": "1.0.0",
   "description": "Common modules for all function",
   "main": "index.js",
@@ -39,6 +39,6 @@
     "type": "git",
     "url": "http://github.com/npm/npm.git"
   },
-  "author": "ME Analytics",
+  "author": "test1",
   "license": "ISC"
 }
